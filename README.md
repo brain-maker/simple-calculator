@@ -1,2 +1,1 @@
-# simple-calculator
-This is my lfirst project in javascript.
+simple calculator created with HTML, CSS & JS
